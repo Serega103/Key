@@ -1,0 +1,10 @@
+Z:\sous\key\key\bin\Debug\key.exe.config
+Z:\sous\key\key\bin\Debug\key.exe
+Z:\sous\key\key\bin\Debug\key.pdb
+Z:\sous\key\key\obj\Debug\key.csproj.AssemblyReference.cache
+Z:\sous\key\key\obj\Debug\key.Form1.resources
+Z:\sous\key\key\obj\Debug\key.Properties.Resources.resources
+Z:\sous\key\key\obj\Debug\key.csproj.GenerateResource.cache
+Z:\sous\key\key\obj\Debug\key.csproj.CoreCompileInputs.cache
+Z:\sous\key\key\obj\Debug\key.exe
+Z:\sous\key\key\obj\Debug\key.pdb
